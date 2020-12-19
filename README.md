@@ -1,7 +1,5 @@
 # templatator3000
 
- Getting started
-
 ## Dependencies
 
 * `python3.9`;
@@ -23,5 +21,4 @@ Don't forget to run
 make
 ```
 to format the code following [black](https://pypi.org/project/black/),
-typecheck it using [mypy](http://mypy-lang.org/), and check it using
-[pylint](https://pylint.org/), and check for common vulnerabilities using [bandit](https://pypi.org/project/bandit/).
+typecheck it using [mypy](http://mypy-lang.org/).
