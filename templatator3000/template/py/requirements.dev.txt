@@ -1,0 +1,6 @@
+bandit
+black
+mypy
+pylint
+sphinx
+sphinxcontrib-napoleon
